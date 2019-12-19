@@ -8,3 +8,5 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 
 1.1 Instructor Intro   
 https://youtu.be/KogUwtKPv7Q   
+1.2 What is AI at the Edge?       
+https://youtu.be/4dro5ZHQLa4     
