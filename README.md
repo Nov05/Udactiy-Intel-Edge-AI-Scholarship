@@ -12,7 +12,8 @@ https://youtu.be/KogUwtKPv7Q
 https://youtu.be/4dro5ZHQLa4     
 1.3 Why is AI at the Edge Important?     
 https://youtu.be/TP3LMX_1uwA    
-
+1.4 Applications of AI at the Edge    
+https://youtu.be/E1StqFO7j9Q   
 
 
 
