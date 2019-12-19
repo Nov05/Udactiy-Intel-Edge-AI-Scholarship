@@ -24,7 +24,10 @@ https://software.intel.com/en-us/openvino-toolkit
 https://youtu.be/ZFrb7ZXJ_bA   
 1.8 Relevant Tools and Prerequisites    
 https://youtu.be/s3wUC-4M4Uk     
-
+hardware requirements for the Intel® Distribution of OpenVINO™ Toolkit    
+https://software.intel.com/en-us/openvino-toolkit/hardware    
+If you do want to do the exercises on your local machine (or perhaps even on a set-up like a Raspberry Pi with an [Intel® Neural Compute Stick 2](https://software.intel.com/en-us/articles/intel-neural-compute-stick-2-and-open-source-openvino-toolkit)), you can follow the instructions here for your operating system.    
+https://docs.openvinotoolkit.org/latest/index.html    
 
 
 
