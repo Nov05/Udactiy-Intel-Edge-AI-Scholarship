@@ -14,6 +14,9 @@ https://youtu.be/4dro5ZHQLa4
 https://youtu.be/TP3LMX_1uwA    
 1.4 Applications of AI at the Edge    
 https://youtu.be/E1StqFO7j9Q   
+1.5 Historical Context    
+https://youtu.be/Gp0CqY4_TGI    
+
 
 
 
