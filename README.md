@@ -19,7 +19,12 @@ https://youtu.be/Gp0CqY4_TGI
 1.6 Course Structure    
 https://youtu.be/BD3nzcTAczg   
 Intel® Distribution of OpenVINO™ Toolkit    
-https://youtu.be/BD3nzcTAczg     
+https://software.intel.com/en-us/openvino-toolkit       
+1.7 Why Are the Topics Distinct?    
+https://youtu.be/ZFrb7ZXJ_bA   
+1.8 Relevant Tools and Prerequisites    
+https://youtu.be/s3wUC-4M4Uk     
+
 
 
 
