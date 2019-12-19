@@ -27,7 +27,33 @@ https://youtu.be/s3wUC-4M4Uk
 hardware requirements for the Intel® Distribution of OpenVINO™ Toolkit    
 https://software.intel.com/en-us/openvino-toolkit/hardware    
 If you do want to do the exercises on your local machine (or perhaps even on a set-up like a Raspberry Pi with an [Intel® Neural Compute Stick 2](https://software.intel.com/en-us/articles/intel-neural-compute-stick-2-and-open-source-openvino-toolkit)), you can follow the instructions here for your operating system.    
-https://docs.openvinotoolkit.org/latest/index.html    
+https://docs.openvinotoolkit.org/latest/index.html      
+1.9 What You Will Build      
+https://youtu.be/e38WWETUZ8g    
+```
+Convert a model to an Intermediate Representation (IR)
+Use the IR with the Inference Engine
+Process the output of the model to gather relevant statistics
+Send those statistics to a server, and
+Perform analysis on both the performance and further use cases of your model.
+```
+Project Demo    
+https://youtu.be/uWkMjUiqk0M   
+1.10 Recap   
+https://youtu.be/tpZHjx2r5gs    
+The structure of the course:     
+```
+Pre-Trained Models
+The Model Optimizer
+The Inference Engine
+More edge topics (MQTT, servers, etc.)
+```
+
+
+
+
+
+
 
 
 
