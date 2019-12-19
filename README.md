@@ -10,3 +10,10 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 https://youtu.be/KogUwtKPv7Q   
 1.2 What is AI at the Edge?       
 https://youtu.be/4dro5ZHQLa4     
+1.3 Why is AI at the Edge Important?     
+https://youtu.be/TP3LMX_1uwA    
+
+
+
+
+
