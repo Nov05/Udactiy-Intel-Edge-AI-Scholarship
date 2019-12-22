@@ -1,11 +1,14 @@
 # Udactiy-Intel-Edge-AI-Scholarship
 
 <img src="https://github.com/Nov05/pictures/blob/master/Udacity/2019-12-19%20Intel%20Edge/2019-12-19%2014_14_21-Udacity%20_%20Udacity.png?raw=true">   
-Go to the website:
-https://www.udacity.com/scholarships/intel-edge-ai-scholarship   
+Go to the website:     
+https://www.udacity.com/scholarships/intel-edge-ai-scholarship     
+Go to the classroom:   
+https://classroom.udacity.com/nanodegrees/nd132/    
 
 ## :point_right: Course Videos   
 
+**Lesson 1 Intro to Edge AI**   
 1.1 Instructor Intro   
 https://youtu.be/KogUwtKPv7Q   
 1.2 What is AI at the Edge?       
@@ -48,6 +51,20 @@ The Model Optimizer
 The Inference Engine
 More edge topics (MQTT, servers, etc.)
 ```
+
+**Lesson 2 Leveraging Pre-Trained Models**   
+2.1 Introduction   
+https://youtu.be/vFNZu1VpdwE    
+In this lesson we'll cover:   
+```
+Basics of the Intel® Distribution OpenVINO™ Toolkit
+Different Computer Vision model types
+Available Pre-Trained Models in the Software
+Choosing the right Pre-Trained Model for your App
+Loading and Deploying a Basic App with a Pre-Trained Model
+```
+2.2 The Intel® Distribution of OpenVINO™ Toolkit   
+https://youtu.be/-pM9pLCnzJk    
 
 
 
