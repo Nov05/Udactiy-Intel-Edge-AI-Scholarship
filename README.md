@@ -9,6 +9,7 @@ https://classroom.udacity.com/nanodegrees/nd132/
 ## :point_right: Course Videos   
 
 **Lesson 1 Intro to Edge AI**   
+
 1.1 Instructor Intro   
 https://youtu.be/KogUwtKPv7Q   
 1.2 What is AI at the Edge?       
@@ -53,6 +54,7 @@ More edge topics (MQTT, servers, etc.)
 ```
 
 **Lesson 2 Leveraging Pre-Trained Models**   
+
 2.1 Introduction   
 https://youtu.be/vFNZu1VpdwE    
 In this lesson we'll cover:   
