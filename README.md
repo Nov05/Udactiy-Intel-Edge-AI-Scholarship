@@ -79,7 +79,33 @@ https://youtu.be/7mUaovlA4aQ
 [Single Shot Multibox Detector (SSD) model](https://arxiv.org/abs/1512.02325), [ResNet](https://arxiv.org/pdf/1512.03385.pdf), MobileNet     
 2.6 Available Pre-Trained Models in OpenVINO™    
 https://youtu.be/SoTH1jr3-HA    
-2.7 Exercise: Loading Pre-Trained Models
+2.7 Exercise: Loading Pre-Trained Models     
+[Jupyter Notebook](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb), [requirements.txt](  
+https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/requirements.txt)           
+2.8 Solution: Loading Pre-Trained Models    
+https://youtu.be/QMfTUdWFsGw   
+[Setting up environment](https://docs.google.com/document/d/13wwk-eQJAZOph8uBDWabZwcKWpsv0YraLzU7zLgjxB4/edit?usp=sharing)    
+Choosing Models   
+```
+Human Pose Estimation: human-pose-estimation-0001
+Text Detection: text-detection-0004
+Determining Car Type & Color: vehicle-attributes-recognition-barrier-0039
+```   
+2.9 Optimizations on the Pre-Trained Models    
+https://youtu.be/nKvZYnOnWm4    
+**2.10 Choosing the Right Model for Your App**   
+https://youtu.be/CWC195DzgAI   
+2.11 Pre-processing Inputs    
+https://youtu.be/E9huKos96Uk   
+2.12 Exercise: Pre-processing Inputs   
+[Notebook](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)       
+
+ 
+
+
+
+       
+
    
 
 
