@@ -1,10 +1,12 @@
-# Udactiy-Intel-Edge-AI-Scholarship
+﻿# Udactiy-Intel-Edge-AI-Scholarship
 
 <img src="https://github.com/Nov05/pictures/blob/master/Udacity/2019-12-19%20Intel%20Edge/2019-12-19%2014_14_21-Udacity%20_%20Udacity.png?raw=true">   
-Go to the website:     
+Go to the challenge page:     
 https://www.udacity.com/scholarships/intel-edge-ai-scholarship     
 Go to the classroom:   
 https://classroom.udacity.com/nanodegrees/nd132/    
+Go the website:    
+https://sites.google.com/udacity.com/intel-edge-ai-scholarship    
 
 ## :point_right: Course Videos   
 
@@ -67,6 +69,26 @@ Loading and Deploying a Basic App with a Pre-Trained Model
 ```
 2.2 The Intel® Distribution of OpenVINO™ Toolkit   
 https://youtu.be/-pM9pLCnzJk    
+2.3 Pre-Trained Models in OpenVINO™    
+https://youtu.be/1-Vije0cMBQ   
+2.4 Types of Computer Vision Models    
+https://youtu.be/E8yBgSKfCoo    
+Classification, Detection, Segmentation, etc.    
+2.5 Case Studies in Computer Vision    
+https://youtu.be/7mUaovlA4aQ     
+[Single Shot Multibox Detector (SSD) model](https://arxiv.org/abs/1512.02325), [ResNet](https://arxiv.org/pdf/1512.03385.pdf), MobileNet     
+2.6 Available Pre-Trained Models in OpenVINO™    
+https://youtu.be/SoTH1jr3-HA    
+2.7 Exercise: Loading Pre-Trained Models
+   
+
+
+     
+
+
+ 
+
+
 
 
 
