@@ -98,7 +98,17 @@ https://youtu.be/CWC195DzgAI
 2.11 Pre-processing Inputs    
 https://youtu.be/E9huKos96Uk   
 2.12 Exercise: Pre-processing Inputs   
-[Notebook](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)       
+[Notebook](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)     
+2.13 Solution: Pre-processing Inputs [Notebook](https://colab.research.google.com/drive/199uSnvkpN2Zy7cLXLCkPZ1S8hcc9NgwT)   
+https://youtu.be/erNsB5nXgW4    
+2.14 Handling Network Outputs   
+https://youtu.be/pREe4P5yygM    
+
+
+
+
+  
+ 
 
  
 
