@@ -102,7 +102,13 @@ https://youtu.be/E9huKos96Uk
 2.13 Solution: Pre-processing Inputs [Notebook](https://colab.research.google.com/drive/199uSnvkpN2Zy7cLXLCkPZ1S8hcc9NgwT)   
 https://youtu.be/erNsB5nXgW4    
 2.14 Handling Network Outputs   
-https://youtu.be/pREe4P5yygM    
+https://youtu.be/pREe4P5yygM      
+2.15 Running Your First Edge App    
+https://youtu.be/FANZZXUqGac    
+2.16 Exercise: Deploy An App at the Edge    
+     
+   
+
 
 
 
