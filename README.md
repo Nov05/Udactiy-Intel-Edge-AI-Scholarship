@@ -106,6 +106,37 @@ https://youtu.be/pREe4P5yygM
 2.15 Running Your First Edge App    
 https://youtu.be/FANZZXUqGac    
 2.16 Exercise: Deploy An App at the Edge    
+[【Notebook】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)   
+2.17 Solution: Deploy an App at the Edge   
+Early Steps and Car Meta Model Output Handling        
+https://youtu.be/X9yI7U2Rn00     
+Pose Estimation Output Handling    
+https://youtu.be/fvFuMgYUibs    
+Text Detection Model Handling   
+https://youtu.be/0tuVuyD6ffM    
+2.18 Recap          
+https://youtu.be/o-fWs0BwbyM      
+2.19 Lesson Glossary    
+[【Google Docs】](https://docs.google.com/document/d/1baou2YgpwyMzcBBK-i00y02b2fWFuVLo4iuPYbP3f4s/edit?usp=sharing)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      
    
 
