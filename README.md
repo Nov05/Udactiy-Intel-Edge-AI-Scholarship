@@ -80,7 +80,7 @@ https://youtu.be/7mUaovlA4aQ
 2.6 Available Pre-Trained Models in OpenVINO™    
 https://youtu.be/SoTH1jr3-HA    
 2.7 Exercise: Loading Pre-Trained Models     
-[Jupyter Notebook](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb), [requirements.txt](  
+[【Jupyter Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb), [requirements.txt](  
 https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/requirements.txt)           
 2.8 Solution: Loading Pre-Trained Models    
 https://youtu.be/QMfTUdWFsGw   
@@ -98,15 +98,15 @@ https://youtu.be/CWC195DzgAI
 2.11 Pre-processing Inputs    
 https://youtu.be/E9huKos96Uk   
 2.12 Exercise: Pre-processing Inputs   
-[Notebook](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)     
-2.13 Solution: Pre-processing Inputs [Notebook](https://colab.research.google.com/drive/199uSnvkpN2Zy7cLXLCkPZ1S8hcc9NgwT)   
+[【Colab Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)     
+2.13 Solution: Pre-processing Inputs [【Colab Notebook】](https://colab.research.google.com/drive/199uSnvkpN2Zy7cLXLCkPZ1S8hcc9NgwT)   
 https://youtu.be/erNsB5nXgW4    
 2.14 Handling Network Outputs   
 https://youtu.be/pREe4P5yygM      
 2.15 Running Your First Edge App    
 https://youtu.be/FANZZXUqGac    
 2.16 Exercise: Deploy An App at the Edge    
-[【Notebook】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)   
+[【Colab Notebook】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)   
 2.17 Solution: Deploy an App at the Edge   
 Early Steps and Car Meta Model Output Handling        
 https://youtu.be/X9yI7U2Rn00     
