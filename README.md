@@ -120,6 +120,18 @@ https://youtu.be/o-fWs0BwbyM
 2.19 Lesson Glossary    
 [【Google Docs】](https://docs.google.com/document/d/1baou2YgpwyMzcBBK-i00y02b2fWFuVLo4iuPYbP3f4s/edit?usp=sharing)   
 
+3.1 Introduction  
+https://youtu.be/wxrPEdI9Sj4   
+3.2 The Model Optimizer   
+https://youtu.be/Gyj7VPmGOVM   
+3.3 Optimization Techniques   
+https://youtu.be/FKgkB4lSn-U    
+
+
+
+
+
+
 
 
 
