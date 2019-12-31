@@ -125,7 +125,31 @@ https://youtu.be/wxrPEdI9Sj4
 3.2 The Model Optimizer   
 https://youtu.be/Gyj7VPmGOVM   
 3.3 Optimization Techniques   
-https://youtu.be/FKgkB4lSn-U    
+https://youtu.be/FKgkB4lSn-U  
+3.4 Supported Frameworks   
+https://youtu.be/5tnzgZuuVsk   
+```
+Caffe
+TensorFlow
+MXNet
+ONNX (which can support PyTorch and Apple ML models through another conversion step)
+Kaldi
+```  
+3.5 Intermediate Representations    
+https://youtu.be/EImZN2nk1t4    
+```
+The Intermediate Representation is a model where specific layers of supported deep learning frameworks are replaced with layers in the “dialect” of the Inference Engine.
+```  
+3.6 Using the Model Optimizer with TensorFlow Models   
+https://youtu.be/IcZKqDTsp4c    
+3.7 Exercise: Convert a TF Model   
+[Converting a TensorFlow* Model](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html)   
+
+ 
+
+   
+
+
 
 
 
