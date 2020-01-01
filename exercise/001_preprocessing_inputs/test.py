@@ -4,9 +4,9 @@ import numpy as np
 from preprocess_inputs import pose_estimation, text_detection, car_meta
 
 # Image locations
-POSE_IMAGE = cv2.imread("images/sitting-on-car.jpg")
-TEXT_IMAGE = cv2.imread("images/sign.jpg")
-CAR_IMAGE = cv2.imread("images/blue-car.jpg")
+POSE_IMAGE = cv2.imread("../images/sitting-on-car.jpg")
+TEXT_IMAGE = cv2.imread("../images/sign.jpg")
+CAR_IMAGE = cv2.imread("../images/blue-car.jpg")
 
 # Test names
 test_names = ["Pose Estimation", "Text Detection", "Car Meta"]
