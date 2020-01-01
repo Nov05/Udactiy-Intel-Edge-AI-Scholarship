@@ -146,7 +146,8 @@ supported deep learning frameworks are replaced with layers in the
 3.6 Using the Model Optimizer with TensorFlow Models   
 https://youtu.be/IcZKqDTsp4c    
 3.7 Exercise: Convert a TF Model   
-[Converting a TensorFlow* Model](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html)   
+[Converting a TensorFlow* Model](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html)     
+
 
  
 
