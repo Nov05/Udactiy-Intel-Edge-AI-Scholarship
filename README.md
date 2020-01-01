@@ -8,8 +8,11 @@ Go to the classroom:
 https://classroom.udacity.com/nanodegrees/nd132/    
 Go the website:    
 https://sites.google.com/udacity.com/intel-edge-ai-scholarship     
-Exercise Guide: [【Colab Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)      
-Setting up environment: [【Colab Notebook】]（https://colab.research.google.com/drive/1c4TaPUMlcbLhJgHIIwEatrFIozQi2xzn）, [【Detailed Notebook】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)       
+Exercise Guide:     
+[【Colab Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)       
+Setting up environment:      
+[【Colab Notebook】](https://colab.research.google.com/drive/1c4TaPUMlcbLhJgHIIwEatrFIozQi2xzn)        
+[【Detailed Notebook】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)       
 
 ## :point_right: Course Videos   
 
