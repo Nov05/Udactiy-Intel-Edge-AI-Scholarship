@@ -7,7 +7,9 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 Go to the classroom:   
 https://classroom.udacity.com/nanodegrees/nd132/    
 Go the website:    
-https://sites.google.com/udacity.com/intel-edge-ai-scholarship    
+https://sites.google.com/udacity.com/intel-edge-ai-scholarship     
+Exercise Guide: [【Colab Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)      
+Setting up environment: [【Colab Notebook】]（https://colab.research.google.com/drive/1c4TaPUMlcbLhJgHIIwEatrFIozQi2xzn）, [【Detailed Notebook】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)       
 
 ## :point_right: Course Videos   
 
@@ -85,7 +87,7 @@ https://youtu.be/SoTH1jr3-HA
 https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/requirements.txt)           
 2.8 Solution: Loading Pre-Trained Models    
 https://youtu.be/QMfTUdWFsGw   
-[Setting up environment](https://docs.google.com/document/d/13wwk-eQJAZOph8uBDWabZwcKWpsv0YraLzU7zLgjxB4/edit?usp=sharing)    
+Setting up environment:[【Google Docs】](https://docs.google.com/document/d/13wwk-eQJAZOph8uBDWabZwcKWpsv0YraLzU7zLgjxB4/)    
 Choosing Models   
 ```
 Human Pose Estimation: human-pose-estimation-0001
@@ -98,10 +100,9 @@ https://youtu.be/nKvZYnOnWm4
 https://youtu.be/CWC195DzgAI   
 2.11 Pre-processing Inputs    
 https://youtu.be/E9huKos96Uk   
-2.12 Exercise: Pre-processing Inputs   
-[【Colab Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)     
-2.13 Solution: Pre-processing Inputs   
+2.12 Exercise: Pre-processing Inputs    
 [【Colab Notebook】](https://colab.research.google.com/drive/199uSnvkpN2Zy7cLXLCkPZ1S8hcc9NgwT)   
+2.13 Solution: Pre-processing Inputs     
 https://youtu.be/erNsB5nXgW4    
 2.14 Handling Network Outputs   
 https://youtu.be/pREe4P5yygM      
