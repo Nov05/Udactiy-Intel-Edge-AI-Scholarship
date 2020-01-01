@@ -7,7 +7,8 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 Go to the classroom:   
 https://classroom.udacity.com/nanodegrees/nd132/    
 Go the website:    
-https://sites.google.com/udacity.com/intel-edge-ai-scholarship     
+https://sites.google.com/udacity.com/intel-edge-ai-scholarship       
+
 Exercise Guide:     
 [【Colab Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)       
 Setting up environment:      
