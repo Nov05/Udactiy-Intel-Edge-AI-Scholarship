@@ -163,6 +163,13 @@ https://youtu.be/nUvJ7aXeyMg
 https://youtu.be/kfb7BGByUdM     
 3.12 Using the Model Optimizer with ONNX Models    
 https://youtu.be/EeDZn7aeSxM    
+[Converting a ONNX* Model](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_ONNX.html)    
+[ONNX Model Zoo](https://github.com/onnx/models)   
+[Converting a PyTorch model using ONNX for use with the OpenVINO™ Toolkit](https://michhar.github.io/convert-pytorch-onnx/)     
+3.13 Exercise: Convert an ONNX Model   
+[【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=_O9xuojjyg4S)    
+
+
 
 
  
