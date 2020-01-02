@@ -168,6 +168,13 @@ https://youtu.be/EeDZn7aeSxM
 [Converting a PyTorch model using ONNX for use with the OpenVINO™ Toolkit](https://michhar.github.io/convert-pytorch-onnx/)     
 3.13 Exercise: Convert an ONNX Model   
 [【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=_O9xuojjyg4S)    
+3.14 Solution: Convert an ONNX Model   
+https://youtu.be/KuERfGMco1A    
+3.15 Cutting Parts of a Model    
+https://youtu.be/jhZIkgysCWM    
+
+
+
 
 
 
