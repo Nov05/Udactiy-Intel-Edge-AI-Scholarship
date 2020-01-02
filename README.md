@@ -152,6 +152,12 @@ supported deep learning frameworks are replaced with layers in the
 https://youtu.be/IcZKqDTsp4c    
 3.7 Exercise: Convert a TF Model   
 [Converting a TensorFlow* Model](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html)     
+3.8 Solution: Convert a TensorFlow Model    
+https://youtu.be/_E2EP3ZM92s     
+[【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=kvDtOZaG9_2p&line=2&uniqifier=1)     
+3.9 Using the Model Optimizer with Caffe Models     
+https://youtu.be/nUvJ7aXeyMg    
+3.10 Exercise: Convert a Caffe Model    
 
 
  
