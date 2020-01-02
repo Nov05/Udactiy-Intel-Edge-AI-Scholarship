@@ -131,11 +131,11 @@ def perform_inference(args):
     path = "outputs"
     if not os.path.exists(path):
         os.makedirs(path)
-        
+
     # Save down the resulting image
     path = f"outputs/{args.t}-output.png"
     result = cv2.imwrite(path, output_image)
-    if result: 
+    if not result: 
         raise Exception(f"cv2.imwrite(\"{path}\") failed")
 
 
