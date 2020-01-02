@@ -90,7 +90,7 @@ def create_output_image(model_type, image, output):
         image = cv2.putText(image, 
             text="Color: {}, Type: {}".format(color, car_type), 
             org=(50 * scaler, 100 * scaler), 
-            font=cv2.FONT_HERSHEY_SIMPLEX, 
+            fontFace=cv2.FONT_HERSHEY_SIMPLEX, 
             fontScale=2 * scaler, 
             color=(1, 255, 1), 
             thickness=10 * scaler # px
