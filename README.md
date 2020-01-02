@@ -172,7 +172,7 @@ https://youtu.be/EeDZn7aeSxM
 https://youtu.be/KuERfGMco1A    
 3.15 Cutting Parts of a Model    
 https://youtu.be/jhZIkgysCWM    
-[test](content/3.15.Cutting Parts of a Model.md)
+[OpenVINO Toolkit](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Cutting_Model.html)   
 
 
 
