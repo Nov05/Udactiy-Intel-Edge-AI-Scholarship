@@ -90,7 +90,7 @@ def create_output_image(model_type, image, output):
         image = cv2.putText(image, 
             "Color: {}, Type: {}".format(color, car_type), 
             (50 * scaler, 100 * scaler), cv2.FONT_HERSHEY_SIMPLEX, 
-            2 * scaler, (0, 255, 0), 3 * scaler)
+            2 * scaler, (255, 255, 255), 3 * scaler)
         return image
     else:
         print("Unknown model type, unable to create output image.")
