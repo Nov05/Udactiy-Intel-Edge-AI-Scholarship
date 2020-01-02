@@ -4,16 +4,16 @@
   
 Go to the challenge page:     
 https://www.udacity.com/scholarships/intel-edge-ai-scholarship     
-Go to the classroom:   
-https://classroom.udacity.com/nanodegrees/nd132/    
 Go the website:    
 https://sites.google.com/udacity.com/intel-edge-ai-scholarship       
+Go to the classroom:   
+https://classroom.udacity.com/nanodegrees/nd132/    
 
 Exercise Guide:     
 [【Jupyter Notebook】](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/blob/master/content/2.07.guide.ipynb)       
 Setting up environment:      
 [【Google Colab】](https://colab.research.google.com/drive/1c4TaPUMlcbLhJgHIIwEatrFIozQi2xzn)        
-[【Detailed Information】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)       
+[【Detailed Notebook】](https://colab.research.google.com/drive/1Qm9AnHoUcN6s738bo7pmJxp10nmOq8O-)       
 
 ## :point_right: Course Videos   
 
@@ -172,6 +172,9 @@ https://youtu.be/EeDZn7aeSxM
 https://youtu.be/KuERfGMco1A    
 3.15 Cutting Parts of a Model    
 https://youtu.be/jhZIkgysCWM    
+[test](content/3.15.Cutting Parts of a Model.md)
+
+
 
 
 
