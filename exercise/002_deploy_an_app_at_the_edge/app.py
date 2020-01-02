@@ -1,4 +1,5 @@
 import argparse
+import os
 import cv2
 import numpy as np
 
@@ -126,8 +127,16 @@ def perform_inference(args):
     # Create an output image based on network
     output_image = create_output_image(args.t, image, processed_output)
 
+    # Create path if not exists
+    path = "outputs"
+    if not os.path.exists(path):
+        os.makedirs(path)
+        
     # Save down the resulting image
-    cv2.imwrite("outputs/{}-output.png".format(args.t), output_image)
+    path = f"outputs/{args.t}-output.png"
+    result = cv2.imwrite(path, output_image)
+    if result: 
+        raise Exception(f"cv2.imwrite(\"{path}\") failed")
 
 
 def main():
