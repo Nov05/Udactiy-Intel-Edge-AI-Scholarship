@@ -92,7 +92,7 @@ def create_output_image(model_type, image, output):
             org=(50 * scaler, 100 * scaler), 
             font=cv2.FONT_HERSHEY_SIMPLEX, 
             fontScale=2 * scaler, 
-            color=(0, 255, 0), 
+            color=(1, 255, 1), 
             thickness=10 * scaler # px
             ) 
         return image
