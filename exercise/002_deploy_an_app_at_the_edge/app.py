@@ -88,9 +88,13 @@ def create_output_image(model_type, image, output):
         scaler = max(int(image.shape[0] / 1000), 1)
         # Write the text of color and type onto the image
         image = cv2.putText(image, 
-            "Color: {}, Type: {}".format(color, car_type), 
-            (50 * scaler, 100 * scaler), cv2.FONT_HERSHEY_SIMPLEX, 
-            2 * scaler, (255, 255, 255), 3 * scaler)
+            text="Color: {}, Type: {}".format(color, car_type), 
+            org=(50 * scaler, 100 * scaler), 
+            font=cv2.FONT_HERSHEY_SIMPLEX, 
+            fontScale=2 * scaler, 
+            color=(0, 255, 0), 
+            thickness=10 * scaler # px
+            ) 
         return image
     else:
         print("Unknown model type, unable to create output image.")
