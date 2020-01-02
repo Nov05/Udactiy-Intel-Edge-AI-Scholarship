@@ -158,6 +158,11 @@ https://youtu.be/_E2EP3ZM92s
 3.9 Using the Model Optimizer with Caffe Models     
 https://youtu.be/nUvJ7aXeyMg    
 3.10 Exercise: Convert a Caffe Model    
+[Excercise](https://github.com/Nov05/Udactiy-Intel-Edge-AI-Scholarship/tree/master/exercise/004_converting_caffe_model)    
+3.11 Solution: Convert a Caffe Model    
+https://youtu.be/kfb7BGByUdM     
+3.12 Using the Model Optimizer with ONNX Models    
+https://youtu.be/EeDZn7aeSxM    
 
 
  
