@@ -173,6 +173,20 @@ https://youtu.be/KuERfGMco1A
 3.15 Cutting Parts of a Model    
 https://youtu.be/jhZIkgysCWM    
 [OpenVINO Toolkit](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Cutting_Model.html)   
+3.16 Supported Layers   
+https://youtu.be/bwVlEaAsHvk   
+[Supported Framework Layers](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Supported_Frameworks_Layers.html)    
+3.17 Custom Layers   
+https://youtu.be/ciSpU0kyjH8   
+[Custom Layers in the Model Optimizer](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_customize_model_optimizer_Customize_Model_Optimizer.html)   
+[Offloading Sub-Graph Inference to TensorFlow*](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_customize_model_optimizer_Offloading_Sub_Graph_Inference.html)   
+3.18 Exercise: Custom Layers  
+The exercise is adapted from [this repository](https://github.com/david-drew/OpenVINO-Custom-Layers).  
+
+
+
+
+
 
 
 
