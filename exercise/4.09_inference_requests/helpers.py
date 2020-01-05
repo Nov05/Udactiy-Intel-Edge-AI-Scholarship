@@ -15,7 +15,6 @@ def load_to_IE(model_xml, cpu_extension):
     # Load IR files into their related class
     model_bin = os.path.splitext(model_xml)[0] + ".bin"
     net = IENetwork(model=model_xml, weights=model_bin)
-    print(f"model {model_xml.split('.')[-2]} has been loaded.")
 
     # Add a CPU extension, if applicable.
     if cpu_extension:

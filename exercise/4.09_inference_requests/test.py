@@ -15,7 +15,7 @@ OUTPUT_SHAPES = {
 
 def pose_test():
     counter = 0
-    model = MODEL_PATH + "FP16/human-pose-estimation-0001/human-pose-estimation-0001.xml"
+    model = MODEL_PATH + "human-pose-estimation-0001/FP16/human-pose-estimation-0001.xml"
     image = "../images/sitting-on-car.jpg"
     counter += test(model, "POSE", image)
 
@@ -24,7 +24,7 @@ def pose_test():
 
 def text_test():
     counter = 0
-    model = MODEL_PATH + "FP16/text-detection-0004/text-detection-0004.xml"
+    model = MODEL_PATH + "text-detection-0004/FP16/text-detection-0004.xml"
     image = "../images/sign.jpg"
     counter += test(model, "TEXT", image)
 
@@ -33,7 +33,7 @@ def text_test():
 
 def car_test():
     counter = 0
-    model = MODEL_PATH + "FP16/vehicle-attributes-recognition-barrier-0039/vehicle-attributes-recognition-barrier-0039.xml"
+    model = MODEL_PATH + "vehicle-attributes-recognition-barrier-0039/FP16/vehicle-attributes-recognition-barrier-0039.xml"
     image = "../images/blue-car.jpg"
     counter += test(model, "CAR META", image)
 
@@ -46,14 +46,11 @@ def test(model, model_type, image):
     try:
         # Load IE separately to check InferRequest latency
         exec_net, input_shape = load_to_IE(model, CPU_EXTENSION)
-        print("input_shape:", input_shape)
         result = perform_inference(exec_net, "S", image, input_shape)
         output_blob = next(iter(exec_net.outputs))
         # Check for matching output shape to expected
-        print("result[output_blob].shape:", result[output_blob].shape)
         assert result[output_blob].shape == OUTPUT_SHAPES[model_type][output_blob]
         # Check latency is > 0; i.e. a request occurred
-        print("exec_net.requests[0].latency:", exec_net.requests[0].latency)
         assert exec_net.requests[0].latency > 0.0
         counter += 1
     except:
