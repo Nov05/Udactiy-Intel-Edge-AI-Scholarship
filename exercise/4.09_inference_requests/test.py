@@ -16,7 +16,7 @@ OUTPUT_SHAPES = {
 def pose_test():
     counter = 0
     model = MODEL_PATH + "FP16/human-pose-estimation-0001/human-pose-estimation-0001.xml"
-    image = "images/sitting-on-car.jpg"
+    image = "../images/sitting-on-car.jpg"
     counter += test(model, "POSE", image)
 
     return counter
@@ -25,7 +25,7 @@ def pose_test():
 def text_test():
     counter = 0
     model = MODEL_PATH + "FP16/text-detection-0004/text-detection-0004.xml"
-    image = "images/sign.jpg"
+    image = "../images/sign.jpg"
     counter += test(model, "TEXT", image)
 
     return counter
@@ -34,7 +34,7 @@ def text_test():
 def car_test():
     counter = 0
     model = MODEL_PATH + "FP16/vehicle-attributes-recognition-barrier-0039/vehicle-attributes-recognition-barrier-0039.xml"
-    image = "images/blue-car.jpg"
+    image = "../images/blue-car.jpg"
     counter += test(model, "CAR META", image)
 
     return counter
