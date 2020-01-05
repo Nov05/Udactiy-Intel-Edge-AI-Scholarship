@@ -2,8 +2,7 @@ from helpers import load_to_IE, preprocessing
 from inference import perform_inference
 
 CPU_EXTENSION = "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so"
-
-MODEL_PATH = "/home/workspace/models/"
+MODEL_PATH = "/content/drive/My Drive/software/Intel OpenVINO 2019 R3.1/workspace/intel/"
 
 OUTPUT_SHAPES = {
     "POSE": {"Mconv7_stage2_L1": (1, 38, 32, 57),
@@ -16,7 +15,7 @@ OUTPUT_SHAPES = {
 
 def pose_test():
     counter = 0
-    model = MODEL_PATH + "human-pose-estimation-0001.xml"
+    model = MODEL_PATH + "FP16/human-pose-estimation-0001/human-pose-estimation-0001.xml"
     image = "images/sitting-on-car.jpg"
     counter += test(model, "POSE", image)
 
@@ -25,7 +24,7 @@ def pose_test():
 
 def text_test():
     counter = 0
-    model = MODEL_PATH + "text-detection-0004.xml"
+    model = MODEL_PATH + "FP16/text-detection-0004/text-detection-0004.xml"
     image = "images/sign.jpg"
     counter += test(model, "TEXT", image)
 
@@ -34,7 +33,7 @@ def text_test():
 
 def car_test():
     counter = 0
-    model = MODEL_PATH + "vehicle-attributes-recognition-barrier-0039.xml"
+    model = MODEL_PATH + "FP16/vehicle-attributes-recognition-barrier-0039/vehicle-attributes-recognition-barrier-0039.xml"
     image = "images/blue-car.jpg"
     counter += test(model, "CAR META", image)
 
