@@ -46,6 +46,7 @@ def test(model, model_type, image):
     try:
         # Load IE separately to check InferRequest latency
         exec_net, input_shape = load_to_IE(model, CPU_EXTENSION)
+        print("input_shape:", input_shape)
         result = perform_inference(exec_net, "S", image, input_shape)
         output_blob = next(iter(exec_net.outputs))
         # Check for matching output shape to expected
