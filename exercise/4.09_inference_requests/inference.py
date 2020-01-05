@@ -51,7 +51,7 @@ def perform_inference(exec_net, request_type, input_image, input_shape):
     '''
     # Get input image
     image = cv2.imread(input_image)
-    # Extract the input shape
+    # Unpack the input shape
     n, c, h, w = input_shape
     # Preprocess it (applies for the IRs from the Pre-Trained Models lesson)
     preprocessed_image = preprocessing(image, h, w)
