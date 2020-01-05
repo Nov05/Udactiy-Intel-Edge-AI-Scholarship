@@ -33,7 +33,7 @@ def text_test():
 
 def car_test():
     counter = 0
-    model = MODEL_PATH + "vehicle-attributes-recognition-barrier-0039/FP16/vehicle-attributes-recognition-barrier-0039.xml"
+    model = MODEL_PATH + "vehicle-attributes-recognition-barrier-0039/INT8/vehicle-attributes-recognition-barrier-0039.xml"
     image = "../images/blue-car.jpg"
     counter += test(model, "CAR META", image)
 
