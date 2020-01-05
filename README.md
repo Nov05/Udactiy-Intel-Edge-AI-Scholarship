@@ -212,7 +212,18 @@ https://youtu.be/dZA4QGbDrs4
 https://youtu.be/m2d1urdJegA     
 4.4 Using the Inference Engine with an IR     
 https://youtu.be/b90ny0AmQF8    
-4.5 Exercise: Feed an IR to the Inference Engine    
+4.5 Exercise: Feed an IR to the Inference Engine      
+4.6 Solution: Feed an IR to the Inference Engine   
+https://youtu.be/jEmebNVBlc4    
+[【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=_ihlOQq_D-FK&line=2&uniqifier=1)    
+4.7 Sending Inference Requests to the IE    
+https://youtu.be/wLN8HYZ05rg   
+4.8 Asynchronous Requests   
+https://youtu.be/JGuUIDpn1PY    
+
+
+
+
 
    
 
