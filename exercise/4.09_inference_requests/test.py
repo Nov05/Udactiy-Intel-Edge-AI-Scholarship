@@ -49,8 +49,10 @@ def test(model, model_type, image):
         result = perform_inference(exec_net, "S", image, input_shape)
         output_blob = next(iter(exec_net.outputs))
         # Check for matching output shape to expected
+        print("result[output_blob].shape:", result[output_blob].shape)
         assert result[output_blob].shape == OUTPUT_SHAPES[model_type][output_blob]
         # Check latency is > 0; i.e. a request occurred
+        print("exec_net.requests[0].latency:", exec_net.requests[0].latency)
         assert exec_net.requests[0].latency > 0.0
         counter += 1
     except:
@@ -74,7 +76,7 @@ def test(model, model_type, image):
 
 def feedback(tests_passed):
     print("You passed {} of 6 tests.".format(int(tests_passed)))
-    if tests_passed == 3:
+    if tests_passed == 6:
         print("Congratulations!")
     else:
         print("See above for additional feedback.")
