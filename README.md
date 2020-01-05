@@ -181,7 +181,48 @@ https://youtu.be/ciSpU0kyjH8
 [Custom Layers in the Model Optimizer](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_customize_model_optimizer_Customize_Model_Optimizer.html)   
 [Offloading Sub-Graph Inference to TensorFlow*](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_customize_model_optimizer_Offloading_Sub_Graph_Inference.html)   
 3.18 Exercise: Custom Layers  
-The exercise is adapted from [this repository](https://github.com/david-drew/OpenVINO-Custom-Layers).  
+The exercise is adapted from [this repository](https://github.com/david-drew/OpenVINO-Custom-Layers).    
+3.19 Recap   
+https://youtu.be/Zf5zOMg2PjQ       
+In this lesson we covered:     
+```
+Basics of the Model Optimizer
+Different Optimization Techniques and their impact on model performance
+Supported Frameworks in the Intel® Distribution of OpenVINO™ Toolkit
+Converting from models in those frameworks to Intermediate Representations
+And a bit on Custom Layers    
+```
+3.20 Lesson Glossary    
+[【Google Docs】](https://docs.google.com/document/d/1baou2YgpwyMzcBBK-i00y02b2fWFuVLo4iuPYbP3f4s/edit?usp=sharing)   
+
+4.1 Introduction   
+https://youtu.be/BUpkwGhboLg   
+In this lesson we'll cover:   
+```
+Basics of the Inference Engine
+Supported Devices
+Feeding an Intermediate Representation to the Inference Engine
+Making Inference Requests
+Handling Results from the Inference Engine
+Integrating the Inference Model into an App   
+```   
+4.2 The Inference Engine    
+https://youtu.be/dZA4QGbDrs4    
+4.3 Supported Devices   
+https://youtu.be/m2d1urdJegA     
+4.4 Using the Inference Engine with an IR     
+https://youtu.be/b90ny0AmQF8    
+4.5 Exercise: Feed an IR to the Inference Engine    
+
+   
+
+
+
+
+
+
+
+   
 
 
 
