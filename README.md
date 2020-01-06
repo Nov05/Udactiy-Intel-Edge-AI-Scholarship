@@ -260,6 +260,22 @@ Sending statistics and video streams to a server
 Performance basics
 And finish up by thinking about additional model use cases, as well as end user needs    
 ```  
+5.2 OpenCV Basics    
+https://youtu.be/c-pyJ3XwWko   
+Useful OpenCV function:   
+`VideoCapture`, `resize`, `cvtColor`, `rectangle`, `imwrite`...  
+[Some pretty extensive tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html)    
+5.3 Handling Input Streams   
+https://youtu.be/F-7ofR4pdNE    
+5.4 Exercise: Handling Input Streams   
+[【Google Colab】]（https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=UV9NyVe1jNUq）    
+5.5 Solution: Handling Input Streams    
+https://youtu.be/p6Hd3dnf-LY   
+5.6 Gathering Useful Information from Model Outputs     
+https://youtu.be/uNoIZI9bm6U    
+5.7  
+   
+
 
 
 
