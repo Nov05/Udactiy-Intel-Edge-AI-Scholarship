@@ -213,20 +213,71 @@ https://youtu.be/m2d1urdJegA
 4.4 Using the Inference Engine with an IR     
 https://youtu.be/b90ny0AmQF8    
 4.5 Exercise: Feed an IR to the Inference Engine      
+[【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=niqr_H0TD4Ie)      
 4.6 Solution: Feed an IR to the Inference Engine   
-https://youtu.be/jEmebNVBlc4    
-[【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=_ihlOQq_D-FK&line=2&uniqifier=1)    
+https://youtu.be/jEmebNVBlc4     
 4.7 Sending Inference Requests to the IE    
 https://youtu.be/wLN8HYZ05rg   
 4.8 Asynchronous Requests   
-https://youtu.be/JGuUIDpn1PY    
+https://youtu.be/JGuUIDpn1PY   
+4.9 Exercise: Inference Requests    
+[【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=d2FNVLb-XOjT&line=2&uniqifier=1)   
+4.10 Solution: Inference Requests    
+https://youtu.be/QeBpEkkoZ74    
+4.11 Handling Results   
+https://youtu.be/wO_Io3wDwTM      
+(Blob class reference)[https://docs.openvinotoolkit.org/latest/classInferenceEngine_1_1Blob.html]  
+e.g ` code snippets could be used to extract the output from an inference request, given an ExecutableNetwork named exec_net?` code snippets could be used to extract the output from an inference request, given an ExecutableNetwork named `exec_net`.   
+4.12 Integrating into Your App    
+https://youtu.be/vQpLv1Y3pnU    
+**Further Research** 
+[Intel®’s IoT Apps Across Industries](https://www.intel.com/content/www/us/en/internet-of-things/industry-solutions.html)   
+[Starting Your First IoT Project](https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d)   
+[OpenVINO™ on a Raspberry Pi and Intel® Neural Compute Stick](https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/)    
+4.13 Exercise: Integrate into an App   
+[【Google Colab】](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG?authuser=1#scrollTo=2DYWXZQw8wca)  
+4.14 Solution: Integrate into an App   
+https://youtu.be/BIdLJkDD5vM    
+**Note:** There is one small change from the code on-screen for running on Linux machines versus Mac. On Mac, `cv2.VideoWriter` uses `cv2.VideoWriter_fourcc('M','J','P','G')` to write an `.mp4` file, while Linux uses `0x00000021`.    
+4.15 Behind the Scenes of Inference Engine   
+https://youtu.be/ZWpNQjXSEEc    
+[What is the best programming language for Machine Learning?](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7)       
+[OpenVINO Toolkit - Optimization Guide](https://docs.openvinotoolkit.org/latest/_docs_optimization_guide_dldt_optimization_guide.html)  
+4.16 Recap   
+https://youtu.be/AVmFgZyk0T0   
+4.17 Lesson Glossary   
+[【Google Docs】](https://docs.google.com/document/d/1baou2YgpwyMzcBBK-i00y02b2fWFuVLo4iuPYbP3f4s/edit?usp=sharing)   
+
+5.1 Introduction   
+https://youtu.be/IBP4tsdFRPg    
+In this lesson we'll cover:   
+```
+Basics of OpenCV
+Handling Input Streams in OpenCV
+Processing Model Outputs for Additional Useful Information
+The Basics of MQTT and their use with IoT devices
+Sending statistics and video streams to a server
+Performance basics
+And finish up by thinking about additional model use cases, as well as end user needs    
+```  
+
+
+
+
+
+
+
+
+
+  
+
+    
 
 
 
 
 
    
-
 
 
 
